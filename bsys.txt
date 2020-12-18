@@ -1,0 +1,20 @@
+how does range and stuff work?
+the starter range is 1-5
+then a random pick is deployed
+if you score 1(low) you do very little damage.
+if you score 5(high) you do a lot little damage.
+in the inbetween, it is low to high.
+You can lower your range SUPER RARLEY.
+but you can increase your damage more often.
+thats that
+
+
+
+
+
+
+
+
+
+
+
